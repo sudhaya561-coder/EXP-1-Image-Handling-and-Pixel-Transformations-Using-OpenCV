@@ -327,70 +327,78 @@ plt.axis("off")
 #1. Original image displayed using OpenCV and Matplotlib.
 
 
-<img width="678" height="432" alt="image" src="https://github.com/user-attachments/assets/3c9e1b80-5327-4524-bf3e-ea608081b473" />
+<img width="357" height="497" alt="image" src="https://github.com/user-attachments/assets/c867a810-a826-44dc-8c63-477f3264abab" />
+
 
 
 
 #2. Image with a line drawn from the top-left to the bottom-right.
 
-<img width="721" height="432" alt="image" src="https://github.com/user-attachments/assets/deb7809f-a2e8-4991-afb8-2c8ffca5117a" />
+<img width="357" height="497" alt="image" src="https://github.com/user-attachments/assets/b9d1c394-b798-4f15-8378-76338d5e6abe" />
+
 
 
 #3. Image with a circle at the center.
 
-<img width="720" height="437" alt="image" src="https://github.com/user-attachments/assets/b9402871-5e57-437c-a9b6-3ad1f30c2323" />
+<img width="396" height="510" alt="image" src="https://github.com/user-attachments/assets/a776d20e-f507-4642-9528-702531a43453" />
 
 
 #4. Image with a rectangle around its boundary.
+<img width="397" height="530" alt="image" src="https://github.com/user-attachments/assets/4295a26c-66b5-465c-84d8-95e7226c80db" />
 
-<img width="750" height="426" alt="image" src="https://github.com/user-attachments/assets/2ec802bc-4413-4d7d-8e52-4b473ac5b09f" />
 
 
 #5. Image with the text "OpenCV Drawing".
 
-<img width="663" height="428" alt="image" src="https://github.com/user-attachments/assets/d8f9ebc8-99ea-4660-81c9-685a63477c13" />
+<img width="397" height="507" alt="image" src="https://github.com/user-attachments/assets/8a949b19-2c9e-4759-b426-64138a36e77f" />
 
 
 #6. HSV, grayscale, and YCrCb color space conversions.
 
 
-<img width="686" height="417" alt="image" src="https://github.com/user-attachments/assets/e42fbc15-5451-4e5a-a415-d0feb7fb5323" />
+<img width="662" height="560" alt="image" src="https://github.com/user-attachments/assets/dd6cc868-91ba-454a-9f15-ff71611eb450" />
 
 
-<img width="717" height="430" alt="image" src="https://github.com/user-attachments/assets/a8c7cd28-f6d7-4880-88cd-12d78ce68e66" />
+<img width="670" height="545" alt="image" src="https://github.com/user-attachments/assets/1955f9b7-99e8-4af7-90df-f4223c8629ff" />
 
+<img width="660" height="516" alt="image" src="https://github.com/user-attachments/assets/76dd42cb-46e1-4810-b1d4-8f736d92d2c3" />
 
-<img width="656" height="417" alt="image" src="https://github.com/user-attachments/assets/3e7ad44f-df51-499e-9431-38cffb50e9b8" />
 
 
 
 #7. Image converted from HSV back to RGB.
 
-<img width="657" height="420" alt="image" src="https://github.com/user-attachments/assets/8c0beb67-2591-4ac9-b292-8164c13a0a61" />
+<img width="668" height="537" alt="image" src="https://github.com/user-attachments/assets/90a32d7d-7d0e-4b7a-885a-b4236646d118" />
+
 
 
 #8. Pixel value displayed and a white region added to the image.
 
-<img width="665" height="436" alt="image" src="https://github.com/user-attachments/assets/6be15860-2780-41c2-8ac4-c9b4be4ce7b9" />
+<img width="396" height="505" alt="image" src="https://github.com/user-attachments/assets/867bccf9-8ab9-4624-85e8-adbe7850e1ea" />
+
 
 
 #9. Image resized to half its original dimensions.
 
-<img width="672" height="501" alt="image" src="https://github.com/user-attachments/assets/a543c77c-b33d-4ccb-8132-4f626a6fedbc" />
+
+<img width="371" height="493" alt="image" src="https://github.com/user-attachments/assets/43b04bcd-3881-407f-a6ac-8db65e00561f" />
 
 
 #10. Cropped region of interest displayed.
 
-<img width="547" height="515" alt="image" src="https://github.com/user-attachments/assets/9c8cd59c-3652-4ac1-9174-0a998dc5c800" />
+<img width="482" height="487" alt="image" src="https://github.com/user-attachments/assets/bd339d4d-ddc8-42e7-94f4-9de739dde19f" />
+
 
 
 #11. Horizontally flipped image displayed.
 
-<img width="722" height="425" alt="image" src="https://github.com/user-attachments/assets/6a0c6e1d-f9dc-41e4-a154-665a248da976" />
+<img width="635" height="530" alt="image" src="https://github.com/user-attachments/assets/40b53b01-671d-488e-ba01-ea60e507a910" />
+
 
 #12. Vertically flipped image displayed.
 
-<img width="662" height="417" alt="image" src="https://github.com/user-attachments/assets/7e119060-625b-4441-93b3-70ca3b04be8e" />
+<img width="646" height="542" alt="image" src="https://github.com/user-attachments/assets/4eb229b6-89f7-4916-9964-b5e0ec298658" />
+
 
 
 ## RESULT
