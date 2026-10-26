@@ -2,8 +2,10 @@
 
 
 **Name:** UDHAYA S
+
+
 **Register Number:** 212225230387
-**Experiment:** Image Handling and Pixel Transformations Using OpenCV
+
 
 ---
 
